@@ -71,9 +71,7 @@ section {
   grid-template-columns:1fr 1fr 1fr 1fr ;
   gap:2rem;
   padding:2rem;
-  display:flex
-  flex-wrap:wrap
-  
+
 }
 
 .product {
@@ -88,6 +86,9 @@ section {
   padding-top: 10px;
   font-weight: bold;
   align-content: space-around;
+  display:flex
+  flex-wrap:wrap
+  
 
   
 
