@@ -72,6 +72,7 @@ section {
   gap:2rem;
   padding:2rem;
   flex-wrap:wrap
+  justify-content:center
 
 }
 
@@ -87,9 +88,7 @@ section {
   padding-top: 10px;
   font-weight: bold;
   align-content: space-around;
-  display:flex
-  flex-wrap:wrap
-  
+ 
 
   
 
