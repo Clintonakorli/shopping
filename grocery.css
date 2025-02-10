@@ -67,10 +67,11 @@ section {
 }
 
 .product-grid{
-  display: grid;
+  display: flex;
   grid-template-columns:1fr 1fr 1fr 1fr ;
   gap:2rem;
   padding:2rem;
+  flex-wrap:wrap
 
 }
 
