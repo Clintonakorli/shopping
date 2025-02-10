@@ -68,7 +68,7 @@ section {
 
 .product-grid{
   display: grid;
-  grid-template-columns:repeat(4,180px );
+  grid-template-columns:repeat(auto-fit,1fr);
   gap:2rem;
   padding:2rem;
   justify-content:center
